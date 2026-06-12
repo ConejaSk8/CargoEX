@@ -3,7 +3,7 @@
 Plugin Name: CargoEX Costa Rica
 Plugin URI: http://www.desing-cr.com/support/plugins
 Description: CargoEX Costa Rica Especializado en envíos nacionales e internacionales, con cobertura en todo el territorio nacional y servicio puerta a puerta.
-Version: 1.0
+Version: 1.1
 Author: ConejaSK8
 Author URI: http://URI_del_Autor_del_Plugin
 License: GPL
